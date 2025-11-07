@@ -1,6 +1,14 @@
-- [Opening: Trend in 2025 (Han Xiao, Jina@Elastic)](./slides_neurips_public.pdf)
+- <a>Opening: Trend in 2025 (Han Xiao, Jina@Elastic)</a>
+- <a>BoF_Jina_Lucas_Moeller.pdf</a>
+- <a>Copy of EMNLP 2025 Slides.pdf</a>
+- <a>DOC-20251107-WA0002..pdf</a>
+- <a>DOC-20251107-WA0005..pdf</a>
+- <a>EMNLP 2025_Main-1796.pdf</a>
+- <a>SemCSE präsentation.pdf</a>
+- <a>diffembed_ppt.pdf</a>
+
 - Saba Sturua  Jina@Elastic
-- Andrianos Michail	University of Zurich 
+- Andrianos Michail	University of Zurich
 - Lucas Moeller	Uni Stuttgart
 - Ziyang Zeng	Beijing University of Posts and Telecommunications
 - Hyukkyu Kang	POSTECH
