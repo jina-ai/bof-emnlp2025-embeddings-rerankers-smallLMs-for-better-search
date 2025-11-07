@@ -1,0 +1,8 @@
+- [Opening: Trend in 2025 (Han Xiao, Jina@Elastic)](./slides_neurips_public.pdf)
+- Saba Sturua  Jina@Elastic
+- Andrianos Michail	University of Zurich 
+- Lucas Moeller	Uni Stuttgart
+- Ziyang Zeng	Beijing University of Posts and Telecommunications
+- Hyukkyu Kang	POSTECH
+- Marc Brinner	Bielefeld University
+- Siyue Zhang	Nanyang Technological University
